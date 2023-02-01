@@ -1,4 +1,4 @@
-# Introduction to java
+# Introduction to Java
 
 This repository is intended to provide a path to learning the Java. The motivation is to provide a solid idea of the language so that the reader knows which path to take in a career as a Java developer.
 
