@@ -35,7 +35,7 @@ Shows you how to use Java's notion of an `interface`. Interfaces let you go beyo
 
 ### Chapter I
 - [An Introduction to Java](https://github.com/romuro-pauliv/Introduction-to-Java/blob/main/Chapter%20I/a0%20-%20An%20Introduction%20to%20Java.md)
-    - Java As a Programming Plataform
+    - [Java As a Programming Plataform](https://github.com/romuro-pauliv/Introduction-to-Java/blob/main/Chapter%20I/a1%20-%20Java%20as%20a%20Programming%20Platform.md)
     - The Java "White Paper" Buzzwords
     - Java Applets and the Internet
     - A Short History of Java
