@@ -1,6 +1,14 @@
 # Introduction to Java
 
+<img align="left" src="https://github.com/romuro-pauliv/Introduction-to-Java/blob/main/static/Cay%20S.%20Horstmann%20-%20Core%20Java%20-%20Fundamentals,%20Volume%20I-Prentice%20Hall%20PTR%20(2007).png?raw=true" alt="drawing" width="300"/>
+
 This repository is intended to provide a path to learning the Java. The motivation is to provide a solid idea of the language so that the reader knows which path to take in a career as a Java developer.
+
+The entire repository is **based on the book** [Horstmann. CayS.,1959-
+Core Java. Volume I, Fundamentals / Cay S. Horstmann, Gary Cornell. -
+8th ed.](https://www.amazon.com.br/Core-Java-I-Fundamentals-8th-1/dp/0132354764)
+
+<br clear="left">
 
 ## A Tour of This Repository
 
