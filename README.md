@@ -8,6 +8,8 @@ The entire repository is **based on the book** [Horstmann. CayS.,1959-
 Core Java. Volume I, Fundamentals / Cay S. Horstmann, Gary Cornell. -
 8th ed.](https://www.amazon.com.br/Core-Java-I-Fundamentals-8th-1/dp/0132354764)
 
+The repository has an identical structure to the book. The code is included and linked for easy access and execution. Some paragraphs in the book may be without direct quotes. I would be grateful if you would open a pull request to correct inaccuracies and contribute to the repository. 
+
 <br clear="left">
 
 ## A Tour of This Repository
